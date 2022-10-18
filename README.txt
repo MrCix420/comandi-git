@@ -1,4 +1,4 @@
-*************** Comandi principali ***************
+	### Comandi principali 
 	- URL Video: https://www.youtube.com/watch?v=NVpwCzeFPD8&list=PL9MslR9MhrJbO7u34sgR3J6iMqkFmVenG
 	- URL DOWNLOAD: https://git-scm.com/downloads
 	- git --version
