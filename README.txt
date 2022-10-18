@@ -44,4 +44,11 @@
 	- git remote show nome_server
 	- git remote rename nome_server nuovo_nome
 	- git remote remove nome_server
+	- git fetch ( retrive from server )
+		- git fetch upstream ( retrive from server master )
+	- git pull ( merge e fetch )
+		- git pull upstream ( merge e fetch )
+	- git clone URL nome_git_clone
+	- git push ( deploy to server )
+	- git remote add upstream url_origin_project 
 	
